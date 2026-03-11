@@ -20,7 +20,8 @@ Each folder in the dataset corresponds to a blood group label.
 
 ## 📸 Sample Dataset Screenshot
 
-![Dataset Screenshot](screenshots/A+.png)
+![Dataset Screenshot]<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/20c6cb8e-50ba-4463-902f-4b265e41ac55" />
+
 
 ## 📌 Project Workflow
 
