@@ -34,11 +34,16 @@ Each folder in the dataset corresponds to a blood group label.
 - Save the processed data as `.npy` files.
 
 **Screenshot:**
-![Preprocessing Screenshot](screenshots/O-.png)
-![A-](screenshots/A-.png)
-![O+ Screenshot](screenshots/O+.png)
-![B- Screenshot](screenshots/B-.png)
-![B+ Screenshot](screenshots/B+.png)
+![Preprocessing Screenshot]<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/efe2ab2b-1ae1-45cd-aa99-00557dc45d43" />
+
+![A-]<img width="1919" height="1195" alt="image" src="https://github.com/user-attachments/assets/40571375-511d-4e45-845b-ca921f236ca6" />
+
+![O+ Screenshot]<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/f7281a75-982f-4cfe-acb1-8ff20e9686ae" />
+
+![B- Screenshot]<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/42d92afd-6dc0-434f-ab14-b7cc324fb03e" />
+
+![B+ Screenshot]<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/694f2bdc-9925-4c25-bed1-632ce57b0c92" />
+
 ### 2. **Model Architecture**
 
 A simple CNN model with the following layers:
@@ -53,7 +58,8 @@ A simple CNN model with the following layers:
 - **Dense (Softmax)**
 
 **Screenshot:**
-![Model Summary Screenshot](screenshots/intital_page.png)
+![Model Summary Screenshot]<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/e1c9f67c-f4fc-41da-a7cf-7dac8cc36218" />
+
 ![Confsusion Matrix](screenshots/Screenshot 2025-06-10 115517.png)
 
 ### 3. **Model Training**
